@@ -16,7 +16,7 @@ group :development, :test do
 
   #for model annotation
   gem 'annotate', '2.5.0'
-
+  gem 'obfuscatejs'
 end
 
 # Gems used only for assets and not required
